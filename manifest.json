@@ -1,6 +1,6 @@
 {
   "name": "Day Counter",
-  "short_name": "DayCount",
+  "short_name": "DayCounter",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
