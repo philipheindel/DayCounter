@@ -6,6 +6,11 @@
   font-size: 80pt;
 }
 
+.day-container {
+  height: 100%;
+}
+
 .day-control {
   width: 100%; 
 }
+
