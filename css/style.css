@@ -5,3 +5,7 @@
 #counter {
   font-size: 80pt;
 }
+
+.day-control {
+  width: 100%; 
+}
